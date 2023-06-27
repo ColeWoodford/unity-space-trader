@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Space Trader",
+"productVersion": "0.1",
+"dataUrl": "space-trader-ui.data.unityweb",
+"wasmCodeUrl": "space-trader-ui.wasm.code.unityweb",
+"wasmFrameworkUrl": "space-trader-ui.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.4f1"
+}
